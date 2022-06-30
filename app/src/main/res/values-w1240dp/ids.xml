@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="nove" />
+    <item type="id" name="dieci" />
+    <item type="id" name="undici" />
+    <item type="id" name="dodici" />
+    <item type="id" name="tredici" />
+    <item type="id" name="quattordici" />
+    <item type="id" name="quindici" />
+    <item type="id" name="sedici" />
+    <item type="id" name="diciassette" />
+    <item type="id" name="diciotto" />
+</resources>
